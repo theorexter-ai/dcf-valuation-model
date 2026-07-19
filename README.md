@@ -38,6 +38,6 @@ Every hardcoded assumption is sourced and color-coded (blue = input, black = for
 ## Files
 
 - `HUL_DCF_Model.xlsx` — the full model
-![Sensitivity Grid](sensitivity.png)
+![Sensitivity Grid](Sensitivity.png)
 ---
 *Built by Yash Tripathi as an independent valuation project. Feedback welcome.*
