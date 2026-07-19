@@ -12,6 +12,10 @@ The goal was to practice full end-to-end valuation modeling — sourcing and cle
 
 The DCF implies a value of ~₹1,088/share against a current market price of ~₹2,170/share (~50% apparent downside as of 18-Jul-2026). Rather than treat that gap as a bug, the model investigates it directly: a peer-multiple cross-check (EV/EBITDA and P/E against Colgate-Palmolive India and Dabur India) implies a value of ~₹2,100–2,150/share — much closer to the market price. The takeaway isn't "the DCF is wrong" or "the market is wrong" — it's that a WACC/terminal-growth DCF is structurally conservative relative to how the market prices HUL's brand moat, pricing power, and cash-flow stability, while peer multiples capture that premium directly. Both methods are shown side by side rather than picking whichever number is more flattering.
 
+## Screenshot
+
+![Sensitivity Grid](Sensitivity.png)
+
 ## Structure
 
 | Tab | Contents |
@@ -37,7 +41,7 @@ Every hardcoded assumption is sourced and color-coded (blue = input, black = for
 
 ## Files
 
-- `HUL_DCF_Model.xlsx` — the full model
-![Sensitivity Grid](Sensitivity.png)
+- 'HUL_DCF_Model (2).xlsx' — the full model
+
 ---
 *Built by Yash Tripathi as an independent valuation project. Feedback welcome.*
