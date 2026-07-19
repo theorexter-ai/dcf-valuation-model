@@ -41,6 +41,7 @@ Every hardcoded assumption is sourced and color-coded (blue = input, black = for
 
 ## Files
 
-- 'HUL_DCF_Model.xlsx' — the full model
-  
+- `HUL_DCF_Model.xlsx` — the full model
+
+---
 *Built by Yash Tripathi as an independent valuation project. Feedback welcome.*
